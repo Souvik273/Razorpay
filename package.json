@@ -1,0 +1,27 @@
+{
+  "scripts": {
+    "start": "vite"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.4.12",
+    "vite": "^4.5.5"
+  },
+  "dependencies": {
+    "feather": "^0.0.5"
+  },
+  "name": "razorpayclone2",
+  "version": "1.0.0",
+  "main": "postcss.config.js",
+  "repository": {
+    "type": "git",
+    "url": "Tailwind CSS"
+  },
+  "keywords": [
+    "tailwind"
+  ],
+  "author": "Souvik Goswami",
+  "license": "ISC",
+  "description": ""
+}
